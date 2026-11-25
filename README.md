@@ -6,7 +6,7 @@ IPTV Philippines Channel List as of 11/25/26
 <details>
 <summary><strong> Philippine Channel</strong></summary>
   
-Philippiines Asia Channel List
+  Philippiines Asia Channel List
   A2Z
   ALLTV 2
   Kapamilya Channel HD
