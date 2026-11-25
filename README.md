@@ -1,5 +1,4 @@
 # IPTV-Philippines
-IPTV Philippines Channel List as of 11/25/26
 
 ## Channel Directory
 
