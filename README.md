@@ -5,8 +5,7 @@ IPTV Philippines Channel and Radio Station List 11/25/26
 
 <details>
 <summary><strong> Philippine Channel</strong></summary>
-  
-**Philippiines Asia Channel List**
+
   *A2Z
   *ALLTV 2
   *Kapamilya Channel HD
